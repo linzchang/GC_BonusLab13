@@ -1,0 +1,7 @@
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\obj\Debug\BonusLab13.csprojAssemblyReference.cache
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\obj\Debug\BonusLab13.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\bin\Debug\BonusLab13.exe.config
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\bin\Debug\BonusLab13.exe
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\bin\Debug\BonusLab13.pdb
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\obj\Debug\BonusLab13.exe
+\\mi\dfs\users\LChang\Desktop\GrandCircus\BonusLab13\BonusLab13\obj\Debug\BonusLab13.pdb
