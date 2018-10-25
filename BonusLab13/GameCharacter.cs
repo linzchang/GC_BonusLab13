@@ -22,9 +22,9 @@ namespace BonusLab13
             Intelligence = intelligence;
         }
 
-        public virtual void Play(string name, int strength, int intelligence, string weaponType, int magicalEnergy, int spellNumber)
+        public virtual void Play()
         {
-            Console.WriteLine($"{name} has {strength} strength and {intelligence} intelligence.");
+            Console.WriteLine($"{Name} has {Strength} strength and {Intelligence} intelligence.\n");
         }
     }
 }

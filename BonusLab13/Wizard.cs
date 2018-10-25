@@ -14,9 +14,9 @@ namespace BonusLab13
             SpellNumber = spellNumber;
         }
 
-        public override void Play(string name, int strength, int intelligence, string weaponType, int magicalEnergy, int spellNumber)
+        public override void Play()
         {
-            Console.WriteLine($"{name} is a wizard.  {name} has {strength} strength, {intelligence} intelligence, and {magicalEnergy} magical energy. {name} knows {spellNumber} spells.");
+            Console.WriteLine($"{Name} is a wizard.  \n{Name} has {Strength} strength, {Intelligence} intelligence, and {MagicalEnergy} magical energy. \n{Name} knows {SpellNumber} spells.\n");
         }
     }
 }

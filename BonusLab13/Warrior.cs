@@ -13,9 +13,9 @@ namespace BonusLab13
             WeaponType = weaponType;
         }
 
-        public override void Play(string name, int strength, int intelligence, string weaponType, int magicalEnergy, int spellNumber)
+        public override void Play()
         {
-            Console.WriteLine($"{name} is a warrior.  {name} has {strength} strength, {intelligence} intelligence, and uses a {WeaponType}.");
+            Console.WriteLine($"{Name} is a warrior with {Strength} strength and {Intelligence} intelligence. \n{Name} wields a {WeaponType}.\n");
         }
 
     }

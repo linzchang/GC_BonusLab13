@@ -14,9 +14,9 @@ namespace BonusLab13
             MagicalEnergy = magicalEnergy;
         }
 
-        public override void Play(string name, int strength, int intelligence, string weaponType, int magicalEnergy, int spellNumber)
+        public override void Play()
         {
-            Console.WriteLine($"{name} has {strength} strength, {intelligence} intelligence, and {magicalEnergy} magical energy.");
+            Console.WriteLine($"{Name} has {Strength} strength, {Intelligence} intelligence, and {MagicalEnergy} magical energy.\n");
         }
     }
 }
